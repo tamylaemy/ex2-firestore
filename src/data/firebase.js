@@ -17,3 +17,4 @@ const bd = fbAppli.firestore();
 
 /******* Ex#3 - Étape C ********************************/ 
 // Exporter (par défaut) ci-dessous la référence à "bd" obtenue ci-dessus (pour pouvoir l'utiliser dans le composant ListeProduits)
+export default bd;
